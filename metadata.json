@@ -1,0 +1,7 @@
+{
+  "name": "Viral Inspiration: Tiny Decisions",
+  "description": "A decision-making tool with a 2-minute lock constraint and AI-powered option generation to solve decision fatigue.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
